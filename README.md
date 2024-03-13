@@ -4,7 +4,7 @@
 <h3 align="center">Oh-my-zsh ⚡</h3>
 
 # Docs
-DEO RAM: 1024 MB
+
 - [Plugins Installation](#Plugins-Installation)
 
 # Plugins Installation
